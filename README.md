@@ -6,7 +6,9 @@ Testing an [issue](https://github.com/lmdu/pyfastx/issues/37) found while using 
 
 ## Repository
 
-Dockerfile to reproduce the issue. Only library version is pinned, while at the moment python version is not. 
+Dockerfile to reproduce the issue. This uses `Ubuntu 18.04` and `Pyfastx 0.8.4`,
+:warning: while at the moment Python version is not (3.9.5 used at the time of writing). 
+
 
 ### Using the Docker file
 
